@@ -1,0 +1,35 @@
+a {
+color: rgb(6, 70, 165);
+}
+
+li:hover {
+    background-color: rgb(122, 212, 240);
+  }
+img{
+    max-width:50%; 
+    height:50%
+}  
+div.p1 {
+    color: rgba(211, 139, 7, 0.37);
+}
+
+div.p2 {
+    color: rgb(255, 166, 0);
+}
+
+div.p3 {
+    color: rgb(255, 94, 0);
+}
+
+span.cities{
+    color: #1815ca;
+}
+span.Food{
+color: rgb(201, 131, 248);
+}
+
+@media only screen and (max-width: 700px) {
+    body {
+      background-color: rgb(191, 230, 243);
+    }
+  }
