@@ -5,7 +5,7 @@ color: rgb(6, 70, 165);
 li:hover {
     background-color: rgb(122, 212, 240);
   }
-img{
+img.small{
     max-width:50%; 
     height:50%
 }  
