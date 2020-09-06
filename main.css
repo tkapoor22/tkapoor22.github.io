@@ -1,5 +1,5 @@
 a {
-color: rgb(9, 84, 196);
+color: rgb(110, 60, 190);
 }
 
 li:hover {
@@ -11,7 +11,7 @@ img.small{
     height:50%
 }  
 div.p1 {
-    color: rgba(185, 122, 5, 0.37);
+    color: rgba(180, 126, 26, 0.37);
 }
 
 div.p2 {
@@ -35,7 +35,7 @@ span.India{
     color: rgb(230, 73, 11);
 }
 span.CA{
-    color: rgb(4, 4, 92);
+    color: rgb(31, 31, 145);
 }
 @media only screen and (max-width: 800px) {
     body {
