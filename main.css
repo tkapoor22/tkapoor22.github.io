@@ -5,9 +5,7 @@ color: rgb(9, 84, 196);
 li:hover {
     background-color: rgb(122, 212, 240);
   }
-a.hover{
-    color: rgba(185, 183, 183, 0.966);
-}  
+
 img.small{
     max-width:50%; 
     height:50%
@@ -39,7 +37,7 @@ span.India{
 span.CA{
     color: rgb(4, 4, 92);
 }
-@media only screen and (max-width: 750px) {
+@media only screen and (max-width: 800px) {
     body {
       background-color: rgb(191, 230, 243);
     }
